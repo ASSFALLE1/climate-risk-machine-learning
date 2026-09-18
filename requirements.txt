@@ -1,0 +1,23 @@
+# Environnement Jupyter
+jupyter
+ipykernel
+
+# Manipulation et analyse des données
+numpy
+pandas
+scipy
+joblib
+
+# Visualisation
+matplotlib
+seaborn
+
+# Statistiques et Machine Learning
+scikit-learn
+statsmodels
+imbalanced-learn
+xgboost
+lightgbm
+
+# Interprétabilité des modèles
+shap
